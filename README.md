@@ -19,10 +19,29 @@ The project is divided into **three main parts**:
 The `<main>` tag contains **five semantic sections**:
 
 1. **Banner** – with a heading, text, and button
+- Main heading: "Get schooled"
+- Subtext with keywords: "SMILES", "GRIN", "LAUGH"
+- Call-to-action button: "REGISTER FOR FREE"
+- Bottom area featuring 4 professionals with names, awards, and profile images
+
 2. **Quote** – with a blockquote and author text
-3. **Videos** – showing 4 professional profiles with images and descriptions
-4. **Membership** – includes CTA elements
-5. **FAQ** – frequently asked questions section
+- Testimonial block with user image, quote, and description
+
+4. **Videos** – showing 4 professional profiles with images and descriptions
+- 4 video tutorials with:
+  - Thumbnail
+  - Title
+  - Short description
+  - Author image and name
+  - Rating (stars) and duration
+ 
+6. **Membership** – includes CTA elements
+- Title: "Free membership"
+- 4 membership benefits with icon, heading, and short paragraph
+- CTA button: "REGISTER FOR FREE"
+
+8. **FAQ** – frequently asked questions section
+- 4 frequently asked questions with detailed answers
 
 These sections are well-structured and organized with semantic HTML5 tags.
 
