@@ -11,8 +11,8 @@ The project is divided into **three main parts**:
 
 ### 🔹 Header
 
-- On the **left**: a **clickable logo**
-- On the **right**: **three clickable navigation links**
+- a **clickable logo**
+- **three clickable navigation links**
 
 ### 🔹 Main
 
@@ -28,8 +28,8 @@ These sections are well-structured and organized with semantic HTML5 tags.
 
 ### 🔹 Footer
 
-- On the **left**: project logo
-- On the **right**: contact information (with image links and text)
+- project logo
+- contact information (with image links and text)
 
 ---
 
